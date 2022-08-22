@@ -19,4 +19,4 @@ def greatest_common_divisor(firstValue, secondValue):
         firstValue = secondValue
         secondValue = remainder
 
-print(greatest_common_divisor(60, 0))
+print(greatest_common_divisor(60, 24))
